@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.Properties.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.csproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.pdb
